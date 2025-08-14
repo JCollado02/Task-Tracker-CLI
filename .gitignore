@@ -1,1 +1,4 @@
 TaskTracker.class
+data/.id
+.gitignore
+data/data.json
